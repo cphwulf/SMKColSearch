@@ -1,3 +1,3 @@
 # SMK COLORSEARCH
-![alt text](https://github.com/wulfthor/SMKColSearch/blob/master/colormaptmp.jpg?raw=true)
+![alt text](https://github.com/cphwulf/SMKColSearch/blob/master/colormaptmp.jpg?raw=true)
 
